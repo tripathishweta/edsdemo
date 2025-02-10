@@ -1,5 +1,6 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/edsdemo62/Shared%20Documents/edsdemo/starter-content-commerce?csf=1&web=1&e=OnhSG3
+  /: https://adobe.sharepoint.com/:f:/r/sites/edsdemo62/Shared%20Documents/edsdemo/starter-content-commerce?csf=1&web=1&e=LmaLO9
+
 
 folders:
   /products/: /products/default
